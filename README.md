@@ -1,4 +1,4 @@
-# Value-PI--C-Project
+# C Language - Value PI - Academic Project 
 Regarding the statement, it is intended to implement the algorithm of “Monte Carlo” simulation, which will work as an estimate of the value of π, using various “threads” and points.
 Considering a square and a circle defined therein, using the method of “Monte Carlo”, a certain amount of random points will be generated. The goal is we notice how many of these points are inside the circle, dividing this count by
 by the total points generated. Multiplying this result by 4, we get Approximate value of π.
